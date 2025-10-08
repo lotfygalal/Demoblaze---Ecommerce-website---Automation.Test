@@ -36,6 +36,14 @@ This project showcases strong expertise in **end-to-end automation design, maint
 - **Cross-browser and regression testing** to ensure site reliability.  
 
 ---
+/src
+ └── main
+      └── java
+           └── tests
+                └── LoginTest.java
+/pom.xml
+/testng.xml
+
 
 ### 👨‍💻 Author
 **Lotfy Galal — Software Testing Engineer**  
