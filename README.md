@@ -1,27 +1,25 @@
-# 📱 Nethar | App Testing (Android & iOS)
+# 🛍️ Demoblaze | E-Commerce Website Automation
 
 ### 🧩 Overview
-This project highlights **manual testing efforts** performed on the **Nethar mobile application (Android & iOS)** during its Beta phase.  
-Working closely within the QA team, we executed **end-to-end testing** including **UI/UX validation, regression, performance, and defect reporting**.  
-Our testing ensured stability and usability across multiple builds while maintaining **continuous feedback loops** between QA, development, and product teams for rapid issue resolution.  
-The project reflects a **real-world mobile testing cycle** combining detailed documentation, structured defect reports, and collaborative review sessions.
+This project demonstrates a **complete automation testing framework** for the **Demoblaze e-commerce website**, built using **Java, Selenium, TestNG, and Maven**.  
+The framework follows the **Page Object Model (POM)** design pattern and integrates **Allure Reports** for detailed test reporting and visualization.  
+All test cases are structured to validate **functional flows**, **cross-browser compatibility**, and **regression coverage**, ensuring a stable and efficient automation suite.  
+This project showcases strong expertise in **end-to-end automation design, maintainability, and reporting integration**.
 
 <p align="center">
-  <img width="400" alt="Nethar Banner" src="https://github.com/user-attachments/assets/e6d02ea9-889f-4653-8c53-7f6d5d5870c7" />
+  <img width="1200" alt="Demoblaze Banner" src="https://github.com/user-attachments/assets/2fb82b4e-0cc5-4e47-926c-0e1b4b58de0b" />
 </p>
 
 ---
 
 ### 📸 Project Screenshots
 
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img width="250" alt="Nethar App 1" src="https://github.com/user-attachments/assets/b98fb027-5fd7-407b-81d5-3931470d12ce" />
-      </td>
-      <td align="center">
-        <img width="250" alt="Nethar App 2" src="https://github.com/user-attachments/assets/cb65832d-dba3-4926-a867-69b4bf134f16" />
+        <img width="1200" alt="Automation Run 1" src="https://github.com/user-attachments/assets/2f7be938-da39-44c1-b903-fe5acce4cb67" />
       </td>
     </tr>
   </table>
@@ -30,11 +28,12 @@ The project reflects a **real-world mobile testing cycle** combining detailed do
 ---
 
 ### 🧠 What’s Inside
-- **Manual testing coverage** across Android and iOS builds.  
-- Detailed **UI/UX reviews** with reported design inconsistencies.  
-- **Performance and regression testing** after each development sprint.  
-- **Defect documentation** with screenshots, severity levels, and reproduction steps.  
-- A clear example of **Beta testing workflow** for mobile applications.  
+- **Selenium WebDriver** automation framework for Demoblaze website.  
+- **Page Object Model (POM)** for scalable and maintainable test design.  
+- **TestNG** for test execution, assertions, and suite management.  
+- **Allure Reports** for rich visual reporting of test results.  
+- **Maven** for project build, dependency management, and test runs.  
+- **Cross-browser and regression testing** to ensure site reliability.  
 
 ---
 
